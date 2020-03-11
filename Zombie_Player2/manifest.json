@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "by Ihategravel",
+        "name": "Zombie Player V2",
+        "uuid": "7a2cabbf-48c9-4525-a622-f229fbf632a0",
+        "version": [1, 9, 0],
+        "min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "9234cb57-8643-4238-8a77-ee3d2bc6c295",
+            "version": [1, 9, 0]
+        }
+    ]
+}
